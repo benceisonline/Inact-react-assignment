@@ -1,3 +1,14 @@
+# Where to look and how to run
+The solutions are in the App.js file, and there is a little CSS styling for the family tree in App.CSS
+
+Just run it locally with `npm start` :)
+
+## How it should look
+![inact_screenshot](https://github.com/benceisonline/Inact-react-assignment/assets/76952323/6bb1e176-2af4-4e67-9983-b60f119cf822)
+
+## Known issue
+Have to import Chart from 'chart.js/auto' to make chartjs-2 work, not pretty for linting but a quick fix
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
