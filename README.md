@@ -1,7 +1,7 @@
 # Where to look and how to run
 The solutions are in the [App.js](https://github.com/benceisonline/Inact-react-assignment/blob/master/src/App.js) file, and there is a little CSS styling for the family tree in [App.CSS](https://github.com/benceisonline/Inact-react-assignment/blob/master/src/App.css).
 
-To install node modules, `run npm install`
+To install node modules, run `npm install`
 
 And you can run it locally with `npm start` :)
 
