@@ -1,5 +1,5 @@
 .App {
-  text-align: center;
+  text-align: left;
 }
 
 .App-logo {
@@ -35,4 +35,42 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.title {
+  text-align: center;
+  font-size: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.family-tree {
+  border: 0.0625rem solid #ccc;
+  padding: 0.625rem;
+  margin: 0.625rem;
+  border-radius: 0.3125rem;
+}
+
+.person-info {
+  margin-bottom: 0.3125rem;
+  display: flex;
+  align-items: center;
+}
+
+.person-info strong {
+  margin-right: 0.625rem;
+}
+
+.info-details {
+  color: #555;
+}
+
+.children-list {
+  list-style: none;
+  padding-left: 1.25rem;
+}
+
+.child-item {
+  margin-bottom: 0.3125rem;
 }
