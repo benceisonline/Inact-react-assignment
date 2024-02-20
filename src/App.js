@@ -151,14 +151,16 @@ class App extends React.Component {
               <FamilyTree person={henning} />
             </p>
           </li>
-          <li>Visualize the ages of the family in a bar chart</li>
-          <p>
-            <BarChart familyAges={familyAges} labels={labels} />
-          </p>
-          <li>Calculate and show the average shoe size per gender</li>
-          <p>
-            <GenderAverage person={henning} />
-          </p>
+          <li>Visualize the ages of the family in a bar chart
+            <p>
+              <BarChart familyAges={familyAges} labels={labels} />
+            </p>
+          </li>
+          <li>Calculate and show the average shoe size per gender
+            <p>
+              <GenderAverage person={henning} />
+            </p>
+          </li>
         </ol>
       </div>
     );
