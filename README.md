@@ -1,7 +1,9 @@
 # Where to look and how to run
-The solutions are in the App.js file, and there is a little CSS styling for the family tree in App.CSS
+The solutions are in the [App.js](https://github.com/benceisonline/Inact-react-assignment/blob/master/src/App.js) file, and there is a little CSS styling for the family tree in [App.CSS](https://github.com/benceisonline/Inact-react-assignment/blob/master/src/App.css).
 
-Just run it locally with `npm start` :)
+To install node modules, run `npm install`
+
+And you can run it locally with `npm start` :)
 
 ## How it should look
 ![inact_screenshot](https://github.com/benceisonline/Inact-react-assignment/assets/76952323/6bb1e176-2af4-4e67-9983-b60f119cf822)
